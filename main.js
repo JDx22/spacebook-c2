@@ -1,3 +1,4 @@
+
 var SpacebookApp = function () {
   var STORAGE_ID = 'spacebook';
 
